@@ -1,0 +1,39 @@
+body
+{
+	background: #333333;
+	background-attachment: fixed;
+	letter-spacing: 1.5px;
+}
+.logo_sec
+{
+	width: 100.65%;
+	color: #F2F2F2;
+	height: 180px;
+	background: url(images/logo_sec.png);
+	margin-top: -1%;
+	margin-left: -1%;
+	
+}
+.logo_sec a
+{
+	color: #993333;
+	text-decoration: none;
+}
+.main
+{
+	width: 80%;
+	margin-left: 9.7%;
+	margin-top: 2%;
+	background: #F2F2F2;
+}
+.nav
+{
+	
+	position: absolute;
+}
+#text
+{
+	margin-left:3%;
+	font-family: Calibri;	
+	font-size: 18px;
+}
